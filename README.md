@@ -1,4 +1,11 @@
-### Hi there 👋
+<fieldset>
+    <legend align="center">
+    <h2> Hi folks! <img src="icons/wave.gif" width="30"> , I'm Sebastian </h2>
+    </legend>
+    <p align="center">A programming student, in the process of becoming a software engineer.</p>
+</fieldset>
+
+
 
 <!--
 **sastiam/sastiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
