@@ -1,6 +1,7 @@
 <h2 align="center"> Hi folks! <img src="icons/wave.gif" width="30"> , I'm Sebastian </h2>
 
 <p align="center">A programming student, in the process of becoming a software engineer.</p>
+<p align="center"> ... </p>
 
 <!--
 **sastiam/sastiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
