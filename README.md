@@ -1,21 +1,21 @@
 <h1 align="center"> Hey everyone! I'm Sebastian <img src="icons/wave.gif" width="30"></h1>
-<h3 align="center">A passionate full stack developer from Peru, currently a Software Engineering student at <a href="https://www.senati.edu.pe/"><img src="icons/favicon.ico">SENATI</a>.</h3>
+<h3 align="center">A passionate full stack developer from Peru, currently a Software Engineering student at <a href="https://www.senati.edu.pe/" target="_blank"><img src="icons/favicon.ico">SENATI</a>.</h3>
 <br>
-<a href="https://www.linkedin.com/in/sebastian-chfrancia/">
+<a href="https://www.linkedin.com/in/sebastian-chfrancia/" target="_blank">
   <img align="left" alt="sastiam's Linkedin" width="120px" style="margin: .5em" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/sastiam">
+<a href="https://github.com/sastiam" target="_blank">
   <img align="left" alt="Sastiam's Github" width="110px" style="margin: .5em" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="mailto:sebastianchotafrancia@gmail.com">
+<a href="mailto:sebastianchotafrancia@gmail.com" target="_blank">
   <img align="left" alt="Contact me" width="95px" style="margin: .5em" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://sastiam.me">
+<a href="https://sastiam.me" target="_blank">
   <img align="left" alt="sastiam's portfolio" width="110px" style="margin: .5em" src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=ghost&logoColor=white" />
 </a>
 <br><br><br>
 
-<a href="https://sastiam.me">
+<a href="https://sastiam.me" target="_blank">
   <img alt="sastiam's github stats" src="https://github-readme-stats.vercel.app/api?username=sastiam" />
 </a>
 <br><br>
