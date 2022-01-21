@@ -1,5 +1,5 @@
 <h1 align="center"> Hey everyone! I'm Sebastian <img src="icons/wave.gif" width="30"></h1>
-<h3 align="center">A passionate full stack developer from Peru, currently a Software Engineering student at <a href="https://www.senati.edu.pe/" target="_blank"><img src="icons/favicon.ico">SENATI</a>.</h3>
+<h3 align="center">A passionate software developer from Peru</h3>
 <br>
 <a href="https://www.linkedin.com/in/sebastian-chfrancia/&_blank" target="_blank">
   <img align="left" alt="sastiam's Linkedin" width="120px" style="margin: .5em" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
